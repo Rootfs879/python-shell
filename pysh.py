@@ -7,25 +7,21 @@ from prompt_toolkit.auto_suggest import AutoSuggestFromHistory
 from prompt_toolkit.styles import Style
 
 custom_style = Style.from_dict({
-    'pyzsh': 'ansiblue',
+    'pysh': 'ansiblue',
     'folder': 'ansicyan',
     'symbol': 'ansigray',
 })
-
-from prompt_toolkit.lexers import PygmentsLexer
-from pygments.lexers.shell import BashLexer
-
 session = PromptSession(
     history=FileHistory('.python_shell_history'),
     auto_suggest=AutoSuggestFromHistory(),
     style=custom_style
 )
-
+# I gave this prompt "[Owner@Fedora (current directory)]$", you can change "Fedora" to your current hostname, you can also change "Owner" to your current user, and finally, you can change "$" to "#" if you are in root user.
 def get_prompt():
     folder = os.path.basename(os.getcwd()) if os.getcwd() != os.path.expanduser("~") else "~"
     return [
 	('class:symbol', '['),
-        ('class:pyzsh', 'Owner@Fedora '),
+        ('class:pysh', 'Owner@Fedora '),
         ('class:folder', f'{folder}'),
         ('class:symbol', ']'),
 	('class:symbol', '$ '),
@@ -65,3 +61,4 @@ def main():
             print(f"Error: {e}")
 if __name__ == "__main__":
     main()
+# I am very sorry if this is not good, not perfect, or has many other problems.a
