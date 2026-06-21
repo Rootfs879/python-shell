@@ -34,4 +34,4 @@ This project is licensed under the **MIT License**.
 
 **Reminder**
 
-Once again, **a version for Windows is not yet available**.
+Once again, **a version for Windows is not yet available** or still under construction.
