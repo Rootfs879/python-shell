@@ -1,4 +1,4 @@
-# PyZsh-Lite
+# Pysh
 
 A lightweight command-line shell built with Python. Designed specifically for Linux/Unix-based systems (including Termux on Android).
 
@@ -31,3 +31,7 @@ This project is open-source. If you would like to add features or fix bugs, feel
 **License**
 
 This project is licensed under the **MIT License**.
+
+**Reminder**
+
+Once again, **a version for Windows is not yet available**.
