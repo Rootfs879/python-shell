@@ -15,7 +15,6 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 2. **Clone this repository:**
 ```bash
    git clone [https://github.com/Rootfs879/python-shell.git](https://github.com/Rootfs879/python-shell.git)
-   cd python-shell
 ```
 3. Run the shell
 ```bash
@@ -35,3 +34,5 @@ This project is licensed under the **MIT License**.
 **Reminder**
 
 Once again, **a version for Windows is not yet available** or still under construction.
+
+PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
