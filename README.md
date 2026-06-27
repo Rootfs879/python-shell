@@ -35,4 +35,7 @@ This project is licensed under the **MIT License**.
 
 Once again, **a version for Windows is not yet available** or still under construction.
 
+**Optional**
+You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/main/CONTRIBUTING.md) if you want.
+
 PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
