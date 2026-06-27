@@ -38,4 +38,6 @@ Once again, **a version for Windows is not yet available** or still under constr
 **Optional**
 You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/main/CONTRIBUTING.md) if you want.
 
+**See the Shell code**
+[Shell Code](https://github.com/Rootfs879/python-shell/blob/main/pysh.py)
 PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
