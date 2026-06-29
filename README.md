@@ -36,8 +36,8 @@ This project is licensed under the **MIT License**.
 Once again, **a version for Windows is not yet available** or still under construction.
 
 **Optional**
-You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/main/CONTRIBUTING.md) if you want.
 
+You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/main/CONTRIBUTING.md) or [LICENSE](https://github.com/Rootfs879/python-shell/blob/main/LICENSE) if you want.
 **See the Shell code**
 
 [Shell Code](https://github.com/Rootfs879/python-shell/blob/main/pysh.py)
