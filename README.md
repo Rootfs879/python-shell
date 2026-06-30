@@ -18,7 +18,7 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 ```
 3. Install a package
  ```bash
-   pip install pygments # This is needed.
+   pip install pygments prompt_toolkit # This is needed.
 ```
 4. Run the shell
 ```bash
