@@ -14,7 +14,7 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 1. **Ensure Python is installed** on your system.
 2. **Clone this repository:**
 ```bash
-   git clone [https://github.com/Rootfs879/python-shell.git](https://github.com/Rootfs879/python-shell.git)
+   git clone https://github.com/Rootfs879/python-shell.git
 ```
 3. Run the shell
 ```bash
