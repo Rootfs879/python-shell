@@ -16,7 +16,11 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 ```bash
    git clone https://github.com/Rootfs879/python-shell.git
 ```
-3. Run the shell
+3. Install a package
+ ```bash
+   pip install pygments # This is needed.
+```
+4. Run the shell
 ```bash
   python pysh.py
 ```
