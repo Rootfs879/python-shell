@@ -19,7 +19,7 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 
    a. If you choose Shell file, do
       ```bash
-         python pysh
+         python pysh.py
       ```
 
    b. If you choose REPL file, do
