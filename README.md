@@ -42,7 +42,7 @@ The method:
 
 ## Requirements
 * ~~Python 3.x~~
-* Python 3.13.x (Python 3.14 doesn't work.)
+* Python 3.13.x
 
 ## Contributing
 
