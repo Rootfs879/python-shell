@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
   "pygments>=2.18.0",
-  "prompt_toolkit>=3.0.40"
+  "prompt_toolkit>=3.0.52"
 ]
 
 [project.scripts]
