@@ -13,7 +13,7 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 
 1. **Ensure Python is installed** on your system.
 
-2. **Download [Shell+REPL file](https://github.com/Rootfs879/python-shell/releases/download/Python_Shell_and_REPL/py-shell+repl.py), [REPL file](https://github.com/Rootfs879/python-shell/releases/download/REPL/py-repl.py), or [Shell file](https://github.com/Rootfs879/python-shell/releases/download/shell/pysh.py)**
+2. **Download the file**
 
 3. Run the Shell/REPL.
 
