@@ -31,8 +31,7 @@ The method:
 ```
 
 ## Requirements
-* ~~Python 3.x~~
-* Python 3.10.x
+* Python 3.10 or later
 
 ## Contributing
 
