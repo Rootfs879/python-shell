@@ -8,7 +8,7 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 - [x] Includes command history functionality.
 - [x] Lightweight and optimized for low memory usage.
 - [x] Clean error handling (graceful exit on Ctrl+C and Ctrl+D).
-- [x] Has REPL feature (use `repl` in py-shell+repl.py, not pysh.py).
+- [x] Has REPL feature (use `repl`).
 ## How to Use
 
 1. **Ensure Python is installed** on your system.
