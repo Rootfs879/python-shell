@@ -1,4 +1,4 @@
-# Pysh
+# PythSh
 
 A lightweight command-line shell built with Python. Designed specifically for Linux/Unix-based systems (including Termux on Android).
 
@@ -15,25 +15,15 @@ A lightweight command-line shell built with Python. Designed specifically for Li
 
 2. **Download the file**
 
-3. Run the Shell/REPL.
+3. Run the Shell.
 
-   a. If you choose Shell file, do
-      ```bash
-         python pysh.py
-      ```
+```bash
+    python YOUR_FILE_NAME
+```
 
-   b. If you choose REPL file, do
-      ```bash
-         python py-repl.py
-      ```
+(Change `YOUR_FILE_NAME` to your file name.)
 
-   c. If you choose Shell+REPL file, do
-      ```bash
-         python py-shell+repl.py
-      ```
-4. (Optional) You can use REPL in the Shell+REPL file, how to do it? You can use `repl` to switch to REPL mode.
-
-5. Important!!! You need to install two package, namely `pygments` and `prompt_toolkit`.
+4. Important!!! You need to install two package, namely `pygments` and `prompt_toolkit`.
 
 The method:
 ```bash
@@ -42,7 +32,7 @@ The method:
 
 ## Requirements
 * ~~Python 3.x~~
-* Python 3.8.x
+* Python 3.10.x
 
 ## Contributing
 
@@ -62,3 +52,5 @@ You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/ma
 
 
 PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
+
+**Just changed name to PythSh**
