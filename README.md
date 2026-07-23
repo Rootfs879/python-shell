@@ -51,7 +51,8 @@ You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/ma
 
 ## WARNING
 
-**YOU CANNOT `chroot` TO THIS FILE.**
+**YOU CANNOT `chroot` TO THE FILE.**
+
 PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
 
 **Just changed name to PythSh**
