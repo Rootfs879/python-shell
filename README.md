@@ -49,7 +49,9 @@ Once again, **a version for Windows is not yet available** or still under constr
 
 You can read [CONTRIBUTING.md](https://github.com/Rootfs879/python-shell/blob/main/CONTRIBUTING.md) or [LICENSE](https://github.com/Rootfs879/python-shell/blob/main/LICENSE) if you want.
 
+## WARNING
 
+**YOU CANNOT `chroot` TO THIS FILE.**
 PS: If you found this repo from a tutorial or a blog, please let me know by opening an issue!
 
 **Just changed name to PythSh**
